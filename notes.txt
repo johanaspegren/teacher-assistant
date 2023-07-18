@@ -1,0 +1,15 @@
+
+pip install langchain
+pip install unstructured
+
+pip install hnswlib
+
+pip install chromadb
+pip install torch
+
+pip install pypdf
+
+
+#2
+pip install langchain unstructured openai chromadb Cython tiktoken pypdf
+
